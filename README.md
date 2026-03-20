@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Faiz!
 
-<!--
-**FaizCyberSecurity/FaizCyberSecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Cybersecurity Professional  
+🎓 Currently pursuing a 1-Year Cyber Security Diploma  
+🛡️ Passionate about Ethical Hacking & Penetration Testing  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔍 Learning and exploring Cybersecurity from scratch  
+- 🐧 Getting hands-on with Linux, Networking & Security tools  
+- 💡 Building practical skills through labs and real-world scenarios  
+- 🎯 Goal: Become a skilled Red Team / Penetration Tester  
+
+---
+
+## 🧠 Skills I'm Learning
+- 🌐 Networking Fundamentals  
+- 🐧 Linux Basics  
+- 🐍 Python (beginner level)  
+- 🛠️ Tools: Nmap, Burp Suite, Metasploit (learning phase)  
+
+---
+
+## 📌 Current Focus
+- Practicing on TryHackMe & Hack The Box  
+- Understanding Web Application Security (OWASP Top 10)  
+- Improving problem-solving & hacking methodology  
+
+---
+
+## 📈 Future Goals
+- 📜 Earn certifications like eJPT, CEH, and OSCP  
+- 💼 Land a role in Cybersecurity (Red Team / Pentesting)  
+- 🏆 Contribute to bug bounty programs  
+
+---
+
+## 📫 Connect With Me
+- 💬 Always open to learning, collaboration, and networking  
+
+---
+
+⭐ *"Stay curious. Keep hacking (ethically)."*
