@@ -37,6 +37,7 @@
 ---
 
 ## 📫 Connect With Me
+- Linkedin profile:linkedin.com/in/faiz-mairaj/
 - 💬 Always open to learning, collaboration, and networking  
 
 ---
