@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Faiz!
 
 💻 Aspiring Cybersecurity Professional  
-🎓 Currently pursuing a 1-Year Cyber Security Diploma  
+🎓 Currently pursuing a 1-Year Cyber Security Diploma and Bachelor's in Computer Applications(BCA)
 🛡️ Passionate about Ethical Hacking & Penetration Testing  
 
 ---
@@ -17,20 +17,22 @@
 ## 🧠 Skills I'm Learning
 - 🌐 Networking Fundamentals  
 - 🐧 Linux Basics  
-- 🐍 Python (beginner level)  
+- 🐍 Python (beginner level)
+- 🧑‍💻 Penetration testing 
 - 🛠️ Tools: Nmap, Burp Suite, Metasploit (learning phase)  
 
 ---
 
 ## 📌 Current Focus
-- Practicing on TryHackMe & Hack The Box  
+- Practicing on TryHackMe & Hack The Box
+- Making Projects  
 - Understanding Web Application Security (OWASP Top 10)  
 - Improving problem-solving & hacking methodology  
 
 ---
 
 ## 📈 Future Goals
-- 📜 Earn certifications like eJPT, CEH, and OSCP  
+- 📜 Earn certifications like eJPT, CEH, CPENT and OSCP  
 - 💼 Land a role in Cybersecurity (Red Team / Pentesting)  
 - 🏆 Contribute to bug bounty programs  
 
