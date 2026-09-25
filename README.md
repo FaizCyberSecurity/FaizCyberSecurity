@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Faiz!
+# 👋 Hello, my name is Faiz 
 
 💻 Aspiring Cybersecurity Professional  
-🎓 Currently pursuing a 1-Year Cyber Security Diploma and Bachelor's in Computer Applications(BCA)
+🎓 Currently pursuing a 1-Year Cyber Security Diploma and Bachelor's of Computer Applications(BCA)
 🛡️ Passionate about Ethical Hacking & Penetration Testing  
 
 ---
@@ -18,8 +18,10 @@
 - 🌐 Networking Fundamentals  
 - 🐧 Linux Basics  
 - 🐍 Python (beginner level)
-- 🧑‍💻 Penetration testing 
-- 🛠️ Tools: Nmap, Burp Suite, Metasploit (learning phase)  
+- 🧑‍💻 Penetration testing
+- 🧑‍💻 Ethical Hacking
+- 🕵️‍♂️ Cyber Forensics
+- 🛠️ Tools: Nmap, Burp Suite, Metasploit, Gobuster etc.
 
 ---
 
@@ -39,7 +41,7 @@
 ---
 
 ## 📫 Connect With Me
-- Linkedin profile:linkedin.com/in/faiz-mairaj/
+- Linkedin profile:linkedin.com/in/mohd-faiz-cys/
 - 💬 Always open to learning, collaboration, and networking  
 
 ---
