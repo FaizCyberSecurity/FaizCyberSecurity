@@ -42,6 +42,7 @@
 
 ## 📫 Connect With Me
 - Linkedin profile:linkedin.com/in/mohd-faiz-cys/
+- Portfolio: https://faizcybersecurity.github.io/cybersecurity-portfolio/
 - 💬 Always open to learning, collaboration, and networking  
 
 ---
